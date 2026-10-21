@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="830" viewBox="0 0 1560 830" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1560" height="830" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">DFD в нотации Гейна–Сарсона. Уровень 0 (контекстная диаграмма)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">Процесс A1 «Анализ требований и проектирование» · ООО «ТехноСервис» · декомпозиция A0 «Разработка программного обеспечения»</tspan></text>
+<rect x="60" y="200" width="220" height="300" fill="#e8f0fe" stroke="#1a56b0" stroke-width="2" rx="2" ry="2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="14" fill="#1a56b0" text-anchor="middle" font-weight="bold"><tspan x="170" y="337.32">Заказчик</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="middle"><tspan x="170" y="360.003">внешняя сущность</tspan><tspan x="170" y="373.653">(клиент, ИП 1)</tspan></text>
+<rect x="620" y="180" width="340" height="340" fill="#fff4e0" stroke="#c26a00" stroke-width="2" rx="18" ry="18"/>
+<path d="M 621.5,210 L 958.5,210" fill="none" stroke="#c26a00" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#c26a00" text-anchor="middle" font-weight="bold"><tspan x="790" y="199.615">A1 (П1.1)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="17" fill="#14213d" text-anchor="middle" font-weight="bold"><tspan x="790" y="359.985">Анализ требований</tspan><tspan x="790" y="382.085">и проектирование</tspan></text>
+<rect x="1280" y="200" width="220" height="300" fill="#e8f0fe" stroke="#1a56b0" stroke-width="2" rx="2" ry="2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="14" fill="#1a56b0" text-anchor="middle" font-weight="bold"><tspan x="1390" y="328.22">Технический</tspan><tspan x="1390" y="346.42">директор</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="middle"><tspan x="1390" y="369.103">владелец процесса</tspan><tspan x="1390" y="382.753">(внутренняя внешняя сущность)</tspan></text>
+<path d="M 280,240 L 609,240" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,285 L 291,285" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 280,330 L 609,330" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,375 L 291,375" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,420 L 291,420" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 280,465 L 609,465" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 280,500 L 609,500" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="7 5"/>
+<path d="M 960,270 L 1269,270" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1280,350 L 971,350" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1280,430 L 971,430" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="7 5"/>
+<rect x="60" y="580" width="620" height="202" fill="#fbfcfe" stroke="#c9d4e4" stroke-width="1.2" rx="8" ry="8"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="74" y="601">Условные обозначения (Гейн–Сарсон)</tspan></text>
+<rect x="72" y="616" width="36" height="20" fill="#e8f0fe" stroke="#1a56b0" stroke-width="1.4"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="630.4">Внешняя сущность (источник/приёмник данных)</tspan></text>
+<rect x="72" y="648" width="36" height="20" fill="#fff4e0" stroke="#c26a00" stroke-width="1.4" rx="9" ry="9"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="662.4">Процесс (преобразователь данных)</tspan></text>
+<rect x="70" y="681" width="40" height="18" fill="#eaf7ec" stroke="none" stroke-width="0"/>
+<path d="M 70,681 L 110,681" fill="none" stroke="#2e7d32" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 70,699 L 110,699" fill="none" stroke="#2e7d32" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 70,681 L 70,699" fill="none" stroke="#2e7d32" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 108,681 L 108,699" fill="none" stroke="#2e7d32" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#2e7d32" text-anchor="middle" font-weight="bold"><tspan x="89" y="694.615">D</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="694.4">Хранилище данных — см. уровень 1</tspan></text>
+<path d="M 70,722 L 98,722" fill="none" stroke="#37474f" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="726.4">Поток данных</tspan></text>
+<path d="M 70,754 L 98,754" fill="none" stroke="#7b1fa2" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 4"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="758.4">Управляющий поток (регламенты, стандарты, договор)</tspan></text>
+<rect x="740" y="580" width="760" height="210" fill="#fbfcfe" stroke="#c9d4e4" stroke-width="1.2" rx="8" ry="8"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="756" y="604">Балансировка с функциональной моделью IDEF0 (узел A1)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="756" y="632">Вход (Input)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="950" y="632">F01 первичная заявка, F03 материалы заказчика, F06 замечания</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="756" y="658">Выход (Output)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="950" y="658">F04 согласованное ТЗ, F05 макеты, F07 проектная документация</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="756" y="684">Управление (Control)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="950" y="684">F08 решение техдиректора, F09 стандарты и регламенты, F10 договор</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="756" y="710">Механизм (Mechanism)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="950" y="710">в DFD не изображается: аналитик, архитектор, дизайнер, PM показаны как</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="950" y="725">исполнители подпроцессов уровня 1</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="start" font-style="italic"><tspan x="756" y="752">Хранилища данных на уровне 0 не показываются — они появляются при декомпозиции (уровень 1: D1, D2).</tspan></text>
+<path d="M 620,240 L 609,244.62 L 609,235.38Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 280,285 L 291,280.38 L 291,289.62Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,330 L 609,334.62 L 609,325.38Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 280,375 L 291,370.38 L 291,379.62Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 280,420 L 291,415.38 L 291,424.62Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,465 L 609,469.62 L 609,460.38Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,500 L 609,504.62 L 609,495.38Z" fill="#7b1fa2" stroke="#7b1fa2" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1280,270 L 1269,274.62 L 1269,265.38Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960,350 L 971,345.38 L 971,354.62Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 960,430 L 971,425.38 L 971,434.62Z" fill="#7b1fa2" stroke="#7b1fa2" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 106,722 L 98,725.36 L 98,718.64Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 106,754 L 98,757.36 L 98,750.64Z" fill="#7b1fa2" stroke="#7b1fa2" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="372" y="230.125" width="156" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="308" y="275.125" width="284" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="301" y="320.125" width="298" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="372" y="365.125" width="156" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="362.5" y="410.125" width="175" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="345" y="455.125" width="210" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="327" y="490.125" width="246" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="964" y="260.125" width="312" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="978" y="340.125" width="284" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="978.5" y="420.125" width="283" height="19.75" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="450" y="244.083">F01 · Первичная заявка</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="450" y="289.082">F02 · Уточняющие вопросы, план интервью</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="450" y="334.082">F03 · Ответы заказчика, исходные материалы</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="450" y="379.082">F04 · Согласованное ТЗ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="450" y="424.082">F05 · Макеты и прототипы</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="450" y="469.082">F06 · Замечания к ТЗ и макетам</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#7b1fa2" text-anchor="middle"><tspan x="450" y="504.082">F10 · Договор и ограничения проекта</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="1120" y="274.082">F07 · Проектная документация на утверждение</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#37474f" text-anchor="middle"><tspan x="1120" y="354.082">F08 · Решение об утверждении / замечания</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#7b1fa2" text-anchor="middle"><tspan x="1120" y="434.082">F09 · Стандарты, регламенты, ГОСТ 34.602</tspan></text>
+</svg>

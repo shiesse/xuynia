@@ -1,0 +1,332 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1300" viewBox="0 0 1900 1300" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1900" height="1300" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">IDEF1X. Логическая модель данных «Управление проектами разработки ПО»</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">8 сущностей, PK/FK, идентифицирующие (сплошные) и неидентифицирующие (пунктирные) связи, нотация «гусиная лапка» · ООО «ТехноСервис»</tspan></text>
+<rect x="60" y="130" width="330" height="187" fill="#ffffff" stroke="#2e7d32" stroke-width="2"/>
+<rect x="60" y="130" width="330" height="32" fill="#eef8ef" stroke="none" stroke-width="0"/>
+<path d="M 60.5,162 L 389.5,162" fill="none" stroke="#2e7d32" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="69" y="150.5">E1</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="239" y="150.615">ЗАКАЗЧИК</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="380" y="182.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="72" y="182.5">ID_Заказчика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="357" y="182.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="203.5">Название</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="203.5">VARCHAR(200)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="224.5">ИНН</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="224.5">CHAR(10/12)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="245.5">Тип</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="245.5">CHAR(10)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="266.5">Контактное_лицо</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="266.5">VARCHAR(120)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="287.5">Телефон</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="287.5">VARCHAR(20)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="308.5">Email</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="308.5">VARCHAR(120)</tspan></text>
+<rect x="470" y="130" width="350" height="208" fill="#ffffff" stroke="#c26a00" stroke-width="2" rx="10" ry="10"/>
+<rect x="470" y="130" width="350" height="32" fill="#fff7ea" stroke="none" stroke-width="0" rx="10" ry="10"/>
+<path d="M 470.5,162 L 819.5,162" fill="none" stroke="#c26a00" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="479" y="150.5">E2</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="659" y="150.615">ПРОЕКТ</tspan></text>
+<path d="M 478,169 L 812,169" fill="none" stroke="#d6dde8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="810" y="182.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="482" y="182.5">ID_Заказчика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="769" y="182.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="810" y="203.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="482" y="203.5">ID_Проекта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="787" y="203.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="810" y="224.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="224.5">ID_Менеджера</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="787" y="224.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="245.5">Название</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="245.5">VARCHAR(200)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="266.5">Дата_старта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="266.5">DATE</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="287.5">Дата_окончания</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="287.5">DATE</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="308.5">Бюджет</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="308.5">DECIMAL(12,2)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="329.5">Статус</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="329.5">VARCHAR(20)</tspan></text>
+<rect x="60" y="600" width="330" height="187" fill="#ffffff" stroke="#2e7d32" stroke-width="2"/>
+<rect x="60" y="600" width="330" height="32" fill="#eef8ef" stroke="none" stroke-width="0"/>
+<path d="M 60.5,632 L 389.5,632" fill="none" stroke="#2e7d32" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="69" y="620.5">E3</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="239" y="620.615">ДОГОВОР</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="380" y="652.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="72" y="652.5">ID_Договора</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="357" y="652.5">INT</tspan></text>
+<path d="M 68,660 L 382,660" fill="none" stroke="#d6dde8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="380" y="673.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="673.5">ID_Проекта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="357" y="673.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="694.5">Номер</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="694.5">VARCHAR(30)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="715.5">Дата</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="715.5">DATE</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="736.5">Сумма</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="736.5">DECIMAL(12,2)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="757.5">Условия_оплаты</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="757.5">VARCHAR(200)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="72" y="778.5">Статус</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="380" y="778.5">VARCHAR(20)</tspan></text>
+<rect x="900" y="130" width="340" height="187" fill="#ffffff" stroke="#2e7d32" stroke-width="2"/>
+<rect x="900" y="130" width="340" height="32" fill="#eef8ef" stroke="none" stroke-width="0"/>
+<path d="M 900.5,162 L 1239.5,162" fill="none" stroke="#2e7d32" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="909" y="150.5">E4</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1084" y="150.615">СОТРУДНИК</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1230" y="182.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="912" y="182.5">ID_Сотрудника</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1207" y="182.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="203.5">ФИО</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="203.5">VARCHAR(150)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="224.5">Должность</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="224.5">VARCHAR(80)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="245.5">Роль</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="245.5">VARCHAR(40)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="266.5">Отдел</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="266.5">VARCHAR(60)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="287.5">Email</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="287.5">VARCHAR(120)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="308.5">Ставка</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="308.5">DECIMAL(10,2)</tspan></text>
+<rect x="470" y="600" width="350" height="250" fill="#ffffff" stroke="#c26a00" stroke-width="2" rx="10" ry="10"/>
+<rect x="470" y="600" width="350" height="32" fill="#fff7ea" stroke="none" stroke-width="0" rx="10" ry="10"/>
+<path d="M 470.5,632 L 819.5,632" fill="none" stroke="#c26a00" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="479" y="620.5">E5</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="659" y="620.615">ЗАДАЧА</tspan></text>
+<path d="M 478,639 L 812,639" fill="none" stroke="#d6dde8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="810" y="652.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="482" y="652.5">ID_Заказчика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="769" y="652.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="810" y="673.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="482" y="673.5">ID_Проекта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="769" y="673.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="810" y="694.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="482" y="694.5">ID_Задачи</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="787" y="694.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="810" y="715.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="715.5">ID_Исполнителя</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="787" y="715.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="736.5">Описание</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="736.5">TEXT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="757.5">Тип</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="757.5">VARCHAR(20)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="778.5">Статус</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="778.5">VARCHAR(20)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="799.5">Приоритет</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="799.5">CHAR(8)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="820.5">План_часов</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="820.5">DECIMAL(6,2)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="482" y="841.5">Срок</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="810" y="841.5">DATE</tspan></text>
+<rect x="900" y="600" width="340" height="250" fill="#ffffff" stroke="#c26a00" stroke-width="2" rx="10" ry="10"/>
+<rect x="900" y="600" width="340" height="32" fill="#fff7ea" stroke="none" stroke-width="0" rx="10" ry="10"/>
+<path d="M 900.5,632 L 1239.5,632" fill="none" stroke="#c26a00" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="909" y="620.5">E6</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1084" y="620.615">ТЕСТ_КЕЙС</tspan></text>
+<path d="M 908,639 L 1232,639" fill="none" stroke="#d6dde8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1230" y="652.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="912" y="652.5">ID_Заказчика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1189" y="652.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1230" y="673.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="912" y="673.5">ID_Проекта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1189" y="673.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1230" y="694.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="912" y="694.5">ID_Задачи</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1189" y="694.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1230" y="715.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="912" y="715.5">ID_Тест_кейса</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1207" y="715.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="1230" y="736.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="736.5">ID_Тестировщика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1207" y="736.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="757.5">Название</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="757.5">VARCHAR(200)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="778.5">Шаги</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="778.5">TEXT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="799.5">Ожидаемый_результат</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="799.5">TEXT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="820.5">Результат</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="820.5">VARCHAR(20)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="912" y="841.5">Дата_проверки</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1230" y="841.5">DATETIME</tspan></text>
+<rect x="1320" y="600" width="350" height="271" fill="#ffffff" stroke="#c26a00" stroke-width="2" rx="10" ry="10"/>
+<rect x="1320" y="600" width="350" height="32" fill="#fff7ea" stroke="none" stroke-width="0" rx="10" ry="10"/>
+<path d="M 1320.5,632 L 1669.5,632" fill="none" stroke="#c26a00" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="1329" y="620.5">E7</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1509" y="620.615">БАГ_РЕПОРТ</tspan></text>
+<path d="M 1328,639 L 1662,639" fill="none" stroke="#d6dde8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1660" y="652.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="1332" y="652.5">ID_Заказчика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1619" y="652.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1660" y="673.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="1332" y="673.5">ID_Проекта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1619" y="673.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1660" y="694.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="1332" y="694.5">ID_Задачи</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1619" y="694.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1660" y="715.5">PK FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="1332" y="715.5">ID_Тест_кейса</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1619" y="715.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1660" y="736.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="1332" y="736.5">ID_Бага</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1637" y="736.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="1660" y="757.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="757.5">ID_Разработчика</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1637" y="757.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="778.5">Описание</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="778.5">TEXT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="799.5">Серьёзность</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="799.5">VARCHAR(12)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="820.5">Статус</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="820.5">VARCHAR(20)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="841.5">Дата_обнаружения</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="841.5">DATETIME</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="862.5">Дата_закрытия</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="862.5">DATETIME</tspan></text>
+<rect x="1320" y="130" width="350" height="208" fill="#ffffff" stroke="#2e7d32" stroke-width="2"/>
+<rect x="1320" y="130" width="350" height="32" fill="#eef8ef" stroke="none" stroke-width="0"/>
+<path d="M 1320.5,162 L 1669.5,162" fill="none" stroke="#2e7d32" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#5b6b82" text-anchor="start" font-weight="bold"><tspan x="1329" y="150.5">E8</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="13" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1509" y="150.615">ДОКУМЕНТ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#2e7d32" text-anchor="end" font-weight="bold"><tspan x="1660" y="182.5">PK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start" text-decoration="underline"><tspan x="1332" y="182.5">ID_Документа</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1637" y="182.5">INT</tspan></text>
+<path d="M 1328,190 L 1662,190" fill="none" stroke="#d6dde8" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="1660" y="203.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="203.5">ID_Проекта</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1637" y="203.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="9.5" fill="#7b1fa2" text-anchor="end" font-weight="bold"><tspan x="1660" y="224.5">FK</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="224.5">ID_Автора</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1637" y="224.5">INT</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="245.5">Тип</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="245.5">VARCHAR(30)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="266.5">Название</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="266.5">VARCHAR(200)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="287.5">Ссылка</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="287.5">VARCHAR(500)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="308.5">Версия</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="308.5">VARCHAR(10)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="1332" y="329.5">Дата</tspan></text>
+<text font-family="'DejaVu Sans Mono','Liberation Mono',Consolas,monospace" font-size="9.5" fill="#5b6b82" text-anchor="end"><tspan x="1660" y="329.5">DATE</tspan></text>
+<path d="M 390,210 L 470,210" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 457,210 L 470,202.85" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 457,210 L 470,210" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 457,210 L 470,217.15" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 404,219 L 404,201" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 560,338 L 560,500 L 225,500 L 225,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 216,588 L 234,588" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 551,352 L 569,352" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 700,338 L 700,600" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 700,587 L 707.15,600" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 700,587 L 700,600" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 700,587 L 692.85,600" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 691,352 L 709,352" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,250 L 820,250" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 833,250 L 820,257.15" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 833,250 L 820,250" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 833,250 L 820,242.85" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 886,241 L 886,259" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1000,317 L 1000,520 L 760,520 L 760,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 760,587 L 767.15,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 760,587 L 760,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 760,587 L 752.85,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 991,331 L 1009,331" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 820,660 L 900,660" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 887,660 L 900,652.85" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 887,660 L 900,660" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 887,660 L 900,667.15" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 834,669 L 834,651" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1070,317 L 1070,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 1070,587 L 1077.15,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1070,587 L 1070,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1070,587 L 1062.85,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1061,331 L 1079,331" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1240,660 L 1320,660" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1307,660 L 1320,652.85" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1307,660 L 1320,660" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1307,660 L 1320,667.15" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1254,669 L 1254,651" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1240,200 L 1280,200 L 1280,560 L 1400,560 L 1400,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 1400,587 L 1407.15,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1400,587 L 1400,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1400,587 L 1392.85,600" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1231,214 L 1249,214" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 640,130 L 640,90 L 1400,90 L 1400,130" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 1400,117 L 1407.15,130" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1400,117 L 1400,130" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1400,117 L 1392.85,130" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 631,144 L 649,144" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1240,170 L 1320,170" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 1307,170 L 1320,162.85" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1307,170 L 1320,170" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1307,170 L 1320,177.15" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1254,179 L 1254,161" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="60" y="900" width="620" height="178" fill="#fbfcfe" stroke="#c9d4e4" stroke-width="1.2" rx="8" ry="8"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="74" y="921">Условные обозначения IDEF1X</tspan></text>
+<rect x="72" y="937" width="36" height="20" fill="#eaf7ec" stroke="#1a355e" stroke-width="1.4"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="951.4">Независимая сущность (прямые углы)</tspan></text>
+<rect x="72" y="971" width="36" height="20" fill="#fff4e0" stroke="#c26a00" stroke-width="1.4" rx="8" ry="8"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="985.4">Зависимая сущность (скруглённые углы)</tspan></text>
+<path d="M 70,1015 L 104,1015" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 91,1015 L 104,1007.85" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 91,1015 L 104,1015" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 91,1015 L 104,1022.15" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 84,1024 L 84,1006" fill="none" stroke="#1a355e" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="1019.4">Идентифицирующая связь (сплошная): FK входит в PK</tspan></text>
+<path d="M 70,1049 L 104,1049" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 5"/>
+<path d="M 91,1049 L 104,1041.85" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 91,1049 L 104,1049" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 91,1049 L 104,1056.15" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 84,1058 L 84,1040" fill="none" stroke="#7b1fa2" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11.5" fill="#14213d" text-anchor="start"><tspan x="122" y="1053.4">Неидентифицирующая связь (пунктир): FK — обычный атрибут</tspan></text>
+<rect x="720" y="900" width="560" height="330" fill="#fbfcfe" stroke="#c9d4e4" stroke-width="1.2" rx="8" ry="8"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="736" y="924">Обозначения в карточке сущности</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="952">PK — первичный ключ (имя атрибута подчеркнуто);</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="972">FK — внешний ключ (ссылка на родительскую сущность);</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="992">сплошная линия с «гусиной лапкой» — идентифицирующая связь 1:M,</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="1012">   дочерняя сущность становится зависимой (скругленные углы);</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="1032">пунктирная линия — неидентифицирующая связь (допускает NULL);</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="1052">одиночная засечка у родителя — «один», «гусиная лапка» у потомка — «многие»;</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#14213d" text-anchor="start"><tspan x="736" y="1072">справочный тип данных указан справа от атрибута (моноширинный шрифт).</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="start" font-style="italic"><tspan x="736" y="1106">Нормализация: модель приведена к 3НФ (атрибуты атомарны, частичные и транзитивные</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="start" font-style="italic"><tspan x="736" y="1122">зависимости устранены, домены вынесены в ограничения CHECK).</tspan></text>
+<rect x="1320" y="900" width="520" height="330" fill="#fbfcfe" stroke="#c9d4e4" stroke-width="1.2" rx="8" ry="8"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="1336" y="924">Соответствие этапам IDEF0 (A0–A4)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a56b0" text-anchor="start" font-weight="bold"><tspan x="1336" y="952">A1 Анализ требований и проектирование</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="968">ЗАКАЗЧИК, ПРОЕКТ, ДОГОВОР, ЗАДАЧА (тип «требование»), ДОКУМЕНТ (ТЗ, протокол,</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="983">макет, архитектура)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a56b0" text-anchor="start" font-weight="bold"><tspan x="1336" y="1006">A2 Разработка кода</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1022">ЗАДАЧА (тип «разработка»), СОТРУДНИК (роли backend/frontend/mobile, тимлид)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a56b0" text-anchor="start" font-weight="bold"><tspan x="1336" y="1045">A3 Тестирование и контроль качества</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1061">ТЕСТ_КЕЙС, БАГ_РЕПОРТ, СОТРУДНИК (QA, QA-автоматизатор), ДОКУМЕНТ (отчёт о</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1076">качестве)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a56b0" text-anchor="start" font-weight="bold"><tspan x="1336" y="1099">A4 Внедрение и сдача заказчику</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1115">ДОКУМЕНТ (инструкция, протокол демонстрации, акт), ПРОЕКТ (статус «внедрение» →</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1130">«закрыт»), ЗАКАЗЧИК</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a56b0" text-anchor="start" font-weight="bold"><tspan x="1336" y="1153">Сквозные процессы (Файл 1: ИП 4–6, 22)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1169">ДОГОВОР, ДОКУМЕНТ (счёт, акт, закрывающие документы), СОТРУДНИК (юрист,</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="1350" y="1184">бухгалтер)</tspan></text>
+<rect x="410.5" y="186.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="372" y="476.45" width="36" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="680.5" y="460.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="840.5" y="226.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="860.5" y="496.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="840.5" y="636.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1050.5" y="460.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1260.5" y="636.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1270.5" y="390.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1000.5" y="66.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1260.5" y="146.45" width="39" height="19.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a355e" text-anchor="middle" font-weight="bold"><tspan x="430" y="199.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="390" y="489.905">1 : 1</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a355e" text-anchor="middle" font-weight="bold"><tspan x="700" y="473.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="860" y="239.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="880" y="509.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a355e" text-anchor="middle" font-weight="bold"><tspan x="860" y="649.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="1070" y="473.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#1a355e" text-anchor="middle" font-weight="bold"><tspan x="1280" y="649.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="1290" y="403.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="1020" y="79.905">1 : M</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#7b1fa2" text-anchor="middle" font-weight="bold"><tspan x="1280" y="159.905">1 : M</tspan></text>
+</svg>

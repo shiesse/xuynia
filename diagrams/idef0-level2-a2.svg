@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="860" viewBox="0 0 1080 860" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1080" height="860" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">IDEF0 «как есть». Уровень 2 — Декомпозиция A2 «Разработка кода»</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">Диаграмма узла A2: блоки, внутренние потоки, стрелки ICOM границы</tspan></text>
+<rect x="140" y="150" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="265" y="208.438">Разработка backend</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="383" y="262">A21</tspan></text>
+<rect x="140" y="400" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="265" y="458.438">Разработка frontend</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="383" y="512">A22</tspan></text>
+<rect x="140" y="650" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="265" y="708.438">Мобильная разработка</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="383" y="762">A23</tspan></text>
+<rect x="620" y="400" width="260" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="750" y="458.438">Code review и сборка</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="873" y="512">A24</tspan></text>
+<path d="M 210,116 L 210,140" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,304 L 210,280" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,366 L 210,390" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,554 L 210,530" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,616 L 210,640" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,804 L 210,780" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 695,366 L 695,390" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 695,554 L 695,530" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 390,210 L 500,210 L 500,440 L 610,440" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 390,460 L 610,460" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 390,710 L 540,710 L 540,480 L 610,480" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 40,210 L 130,210" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 40,460 L 130,460" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 40,710 L 130,710" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 880,460 L 990,460" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,150 L 205.8,140 L 214.2,140Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,270 L 214.2,280 L 205.8,280Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,400 L 205.8,390 L 214.2,390Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,520 L 214.2,530 L 205.8,530Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,650 L 205.8,640 L 214.2,640Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,770 L 214.2,780 L 205.8,780Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 695,400 L 690.8,390 L 699.2,390Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 695,520 L 699.2,530 L 690.8,530Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,440 L 610,444.2 L 610,435.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,460 L 610,464.2 L 610,455.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 620,480 L 610,484.2 L 610,475.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 140,210 L 130,214.2 L 130,205.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 140,460 L 130,464.2 L 130,455.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 140,710 L 130,714.2 L 130,705.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1000,460 L 990,464.2 L 990,455.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="140" y="99.1" width="140" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="135.5" y="309.1" width="149" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="138.5" y="342.6" width="143" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="134" y="559.1" width="152" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="145.5" y="599.1" width="129" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="149.5" y="802.6" width="121" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="644" y="342.6" width="102" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="653.5" y="559.1" width="83" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="444.5" y="301.775" width="111" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="457.5" y="436.775" width="95" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="471.5" y="571.775" width="137" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="42" y="179.95" width="96" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="47.5" y="429.95" width="85" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="25.5" y="679.95" width="129" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="872.5" y="436.775" width="135" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="111.55">Стандарты кодирования</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="321.55">Backend-разработчики, Git</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="355.05">Стандарты кодирования,</tspan><tspan x="210" y="368.05">UI-кит</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="571.55">Frontend-разработчики, IDE</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="611.55">Гайдлайны iOS/Android</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="815.05">Mobile-разработчики,</tspan><tspan x="210" y="828.05">Xcode/Android Studio</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="695" y="355.05">Чек-листы ревью,</tspan><tspan x="695" y="368.05">регламент CI/CD</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="695" y="571.55">Тимлид, CI/CD</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="500" y="314.728">Серверный код, API</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="505" y="449.728">Клиентский код</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="540" y="584.727">Мобильное приложение</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="90" y="192.903">ТЗ, архитектура,</tspan><tspan x="90" y="206.553">модель БД и API</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="90" y="442.903">ТЗ, UI-макеты,</tspan><tspan x="90" y="456.553">API-контракты</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="90" y="692.902">ТЗ, макеты мобильных</tspan><tspan x="90" y="706.552">экранов</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="940" y="449.728">Релиз-кандидат (ИП 16)</tspan></text>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="780" viewBox="0 0 1380 780" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1380" height="780" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">IDEF0 «как есть». Уровень 2 — Декомпозиция A4 «Внедрение и сдача заказчику»</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">Диаграмма узла A4: блоки, внутренние потоки, стрелки ICOM границы</tspan></text>
+<rect x="140" y="300" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="265" y="350.312">Развертывание</tspan><tspan x="265" y="366.562">на серверах</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="383" y="412">A41</tspan></text>
+<rect x="520" y="160" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="645" y="210.312">Обучение</tspan><tspan x="645" y="226.562">пользователей</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="763" y="272">A42</tspan></text>
+<rect x="520" y="470" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="645" y="520.312">Демонстрация</tspan><tspan x="645" y="536.562">и приемка</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="763" y="582">A43</tspan></text>
+<rect x="900" y="300" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1025" y="358.438">Подписание акта</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="1143" y="412">A44</tspan></text>
+<path d="M 210,266 L 210,290" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,454 L 210,430" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,126 L 590,150" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,314 L 590,290" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,436 L 590,460" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,624 L 590,600" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 970,266 L 970,290" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 970,454 L 970,430" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 390,340 L 450,340 L 450,220 L 510,220" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 390,380 L 450,380 L 450,530 L 510,530" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 740,280 L 740,460" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770,530 L 860,530 L 860,360 L 890,360" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 40,360 L 130,360" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1150,340 L 1290,340" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770,190 L 1290,190" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,300 L 205.8,290 L 214.2,290Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210,420 L 214.2,430 L 205.8,430Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,160 L 585.8,150 L 594.2,150Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,280 L 594.2,290 L 585.8,290Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,470 L 585.8,460 L 594.2,460Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 590,590 L 594.2,600 L 585.8,600Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 970,300 L 965.8,290 L 974.2,290Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 970,420 L 974.2,430 L 965.8,430Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 520,220 L 510,224.2 L 510,215.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 520,530 L 510,534.2 L 510,525.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 740,470 L 735.8,460 L 744.2,460Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,360 L 890,364.2 L 890,355.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 140,360 L 130,364.2 L 130,355.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1300,340 L 1290,344.2 L 1290,335.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1300,190 L 1290,194.2 L 1290,185.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="128" y="242.6" width="164" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="164" y="452.6" width="92" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="530" y="109.1" width="120" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="538.5" y="319.1" width="103" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="536" y="412.6" width="108" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="552" y="629.1" width="76" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="913.5" y="242.6" width="113" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="901.5" y="452.6" width="137" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="389" y="256.775" width="122" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="389" y="431.775" width="122" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="748" y="344.95" width="147" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="790" y="421.775" width="140" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="9" y="329.95" width="162" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1124" y="309.95" width="202" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="927.5" y="166.775" width="215" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="255.05">Стандарты инфраструктуры,</tspan><tspan x="210" y="268.05">регламент развёртывания</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="210" y="465.05">DevOps, Docker,</tspan><tspan x="210" y="478.05">Kubernetes</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="590" y="121.55">Программа обучения</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="590" y="331.55">Техписатель, ВКС</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="590" y="425.05">Договор, критерии</tspan><tspan x="590" y="438.05">приёмки</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="590" y="641.55">PM, заказчик</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="970" y="255.05">Договор, регламент</tspan><tspan x="970" y="268.05">документооборота</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="970" y="465.05">PM, юрист, бухгалтерия,</tspan><tspan x="970" y="478.05">ЭДО</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="450" y="269.728">Развёрнутая система</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="450" y="444.728">Развёрнутая система</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="start"><tspan x="752" y="357.903">Обученные пользователи,</tspan><tspan x="752" y="371.553">обратная связь</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="860" y="434.728">Протокол демонстрации</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="90" y="342.903">Протестированный продукт,</tspan><tspan x="90" y="356.553">отчёт о качестве</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="1225" y="322.903">Акт сдачи-приёмки,</tspan><tspan x="1225" y="336.553">закрывающие документы (ИП 21–22)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="1035" y="179.727">Пользовательские инструкции (ИП 23)</tspan></text>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="780" viewBox="0 0 1260 780" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1260" height="780" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">IDEF0 «как есть». Уровень 2 — Декомпозиция A1 «Анализ требований и проектирование»</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">Диаграмма узла A1: блоки, внутренние потоки, стрелки ICOM границы</tspan></text>
+<rect x="120" y="320" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="245" y="378.438">Сбор требований</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="363" y="432">A11</tspan></text>
+<rect x="470" y="320" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="595" y="378.438">Разработка ТЗ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="713" y="432">A12</tspan></text>
+<rect x="830" y="180" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="955" y="230.312">Проектирование</tspan><tspan x="955" y="246.562">архитектуры</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="1073" y="292">A13</tspan></text>
+<rect x="830" y="460" width="250" height="120" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="955" y="518.438">Дизайн UI/UX</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="1073" y="572">A14</tspan></text>
+<path d="M 190,286 L 190,310" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 190,474 L 190,450" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 540,286 L 540,310" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 540,474 L 540,450" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,146 L 900,170" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,334 L 900,310" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,426 L 900,450" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,614 L 900,590" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 370,380 L 460,380" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 720,360 L 775,360 L 775,240 L 820,240" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 720,400 L 795,400 L 795,520 L 820,520" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 40,360 L 110,360" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 720,390 L 1170,390" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1080,240 L 1170,240" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1080,520 L 1170,520" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 190,320 L 185.8,310 L 194.2,310Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 190,440 L 194.2,450 L 185.8,450Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 540,320 L 535.8,310 L 544.2,310Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 540,440 L 544.2,450 L 535.8,450Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,180 L 895.8,170 L 904.2,170Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,300 L 904.2,310 L 895.8,310Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,460 L 895.8,450 L 904.2,450Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 900,580 L 904.2,590 L 895.8,590Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 470,380 L 460,384.2 L 460,375.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 830,240 L 820,244.2 L 820,235.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 830,520 L 820,524.2 L 820,515.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 120,360 L 110,364.2 L 110,355.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1180,390 L 1170,394.2 L 1170,385.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1180,240 L 1170,244.2 L 1170,235.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1180,520 L 1170,524.2 L 1170,515.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="135" y="262.6" width="110" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="135" y="479.1" width="110" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="503" y="262.6" width="74" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="498" y="472.6" width="84" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="834" y="122.6" width="132" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="860" y="332.6" width="80" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="859.5" y="402.6" width="81" height="30.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="851.5" y="619.1" width="97" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="383" y="342.3" width="74" height="59.4" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="723.5" y="276.775" width="103" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="743.5" y="436.775" width="103" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="15.5" y="329.95" width="129" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="881" y="366.775" width="138" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1059" y="209.95" width="142" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1073" y="496.775" width="114" height="18.45" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="190" y="275.05">Договор, методики</tspan><tspan x="190" y="288.05">сбора требований</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="190" y="491.55">Аналитик, PM, CRM</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="540" y="275.05">ГОСТ 34.602,</tspan><tspan x="540" y="288.05">шаблон ТЗ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="540" y="485.05">Аналитик, PM,</tspan><tspan x="540" y="498.05">Confluence</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="900" y="135.05">Паттерны и стандарты</tspan><tspan x="900" y="148.05">проектирования</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="900" y="345.05">Архитектор,</tspan><tspan x="900" y="358.05">Visio, Swagger</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="900" y="415.05">Брендбук,</tspan><tspan x="900" y="428.05">UI-гайдлайны</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="900" y="631.55">Дизайнер, Figma</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="420" y="355.252">Список</tspan><tspan x="420" y="368.902">требований,</tspan><tspan x="420" y="382.553">протоколы</tspan><tspan x="420" y="396.202">интервью</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="775" y="289.728">Согласованное ТЗ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="795" y="449.728">Согласованное ТЗ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="80" y="342.903">Требования заказчика,</tspan><tspan x="80" y="356.553">заявка (ИП 1–3)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="950" y="379.728">ТЗ (базовая линия, ИП 9)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="1130" y="222.903">Архитектура, модель БД,</tspan><tspan x="1130" y="236.553">API-контракты</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="1130" y="509.728">Макеты, прототипы</tspan></text>
+</svg>

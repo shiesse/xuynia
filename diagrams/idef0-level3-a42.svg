@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="720" viewBox="0 0 1460 720" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1460" height="720" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">IDEF0 «как есть». Уровень 3 — декомпозиция блока A42 «Обучение пользователей»</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">Элементарные работы: одна роль, один результат, без промежуточных решений</tspan></text>
+<rect x="150" y="300" width="250" height="110" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="275" y="346.05">Подготовка пользовательских</tspan><tspan x="275" y="359.05">инструкций</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="393" y="402">A421</tspan></text>
+<rect x="530" y="300" width="250" height="110" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="655" y="352.905">Проведение обучения (ВКС/очно)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="773" y="402">A422</tspan></text>
+<rect x="910" y="300" width="250" height="110" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1035" y="352.55">Сбор и регистрация обратной связи</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#5b6b82" text-anchor="end" font-weight="bold"><tspan x="1153" y="402">A423</tspan></text>
+<path d="M 40,337 L 140,337" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1160,337 L 1410,337" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 275,234 L 275,290" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 275,472 L 275,420" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 655,234 L 655,290" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 655,472 L 655,420" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1035,234 L 1035,290" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1035,472 L 1035,420" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 400,355 L 520,355" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 780,355 L 900,355" fill="none" stroke="#37474f" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150,337 L 140,341.2 L 140,332.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1420,337 L 1410,341.2 L 1410,332.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 275,300 L 270.8,290 L 279.2,290Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 275,410 L 279.2,420 L 270.8,420Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 655,300 L 650.8,290 L 659.2,290Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 655,410 L 659.2,420 L 650.8,420Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1035,300 L 1030.8,290 L 1039.2,290Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1035,410 L 1039.2,420 L 1030.8,420Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 530,355 L 520,359.2 L 520,350.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 910,355 L 900,359.2 L 900,350.8Z" fill="#37474f" stroke="#37474f" stroke-width="0.6" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="58" y="320.95" width="74" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1190.5" y="320.95" width="199" height="32.1" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="216" y="217.1" width="118" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="206" y="477.1" width="138" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="595" y="217.1" width="120" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="606.5" y="477.1" width="97" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="960" y="217.1" width="150" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="1009" y="477.1" width="52" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="392.5" y="330.1" width="145" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<rect x="784" y="330.1" width="122" height="17.8" fill="#ffffff" stroke="none" stroke-width="0" rx="4" ry="4" opacity="0.92"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="95" y="333.903">Развёрнутая</tspan><tspan x="95" y="347.553">система, ТЗ</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10.5" fill="#14213d" text-anchor="middle"><tspan x="1290" y="333.903">Обученные пользователи, обратная</tspan><tspan x="1290" y="347.553">связь (ИП 23–24)</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="275" y="229.55">Шаблон инструкции</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="275" y="489.55">Техписатель, Confluence</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="655" y="229.55">Программа обучения</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="655" y="489.55">Техписатель, PM</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="1035" y="229.55">Регламент обратной связи</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="1035" y="489.55">PM, CRM</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="465" y="342.55">Инструкции и материалы</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#14213d" text-anchor="middle"><tspan x="845" y="342.55">Проведённые сессии</tspan></text>
+</svg>

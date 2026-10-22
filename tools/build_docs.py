@@ -324,6 +324,7 @@ def build_site():
 <a href="#p4">Практика 4 · IDEF3</a>
 <a href="#p56">Практики 5–6 · IDEF1X</a>
 <a href="#spec">Сводные спецификации</a>
+<a href="idef0-as-is.html">Лабораторная №1 · IDEF0 «как есть»</a>
 </nav>
 <main>"""]
 

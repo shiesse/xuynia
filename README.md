@@ -10,6 +10,19 @@
 | №4 | **IDEF3** | A3 «Тестирование и контроль качества» | диаграмма потока работ (UOB, перекрёстки `&` / `≥1`, объекты ссылок) + обоснование типов перекрёстков |
 | №5–6 | **IDEF1X** | «Управление проектами разработки ПО» | логическая модель данных (8 сущностей, PK/FK, связи 1:M и 1:1) + спецификация атрибутов + DDL |
 
+## Лабораторная работа №1 — функциональная модель IDEF0 «как есть»
+
+Тот же сквозной пример (ООО «ТехноСервис», процесс A0 «Разработка программного
+обеспечения»), оформленный **отдельным комплектом файлов**:
+
+* контекстная диаграмма **A-0** (входы, выходы, управления, механизмы);
+* **три уровня декомпозиции**: A0 → A1–A4 → A11–A44 → A111–A444 (61 узел);
+* **дерево узлов** модели;
+* исходники для редактора **Dia** (библиотека «SADT/IDEF0»): `dia/*.dia` — 22 файла
+  (контекст, уровень 1, четыре диаграммы уровня 2, шестнадцать диаграмм уровня 3);
+* отчёты: `docs/practice-01-02-idef0-as-is.md`, `docs/otchet-idef0-as-is.docx`,
+  страница `site/idef0-as-is.html`.
+
 ## Структура репозитория
 
 ```
@@ -18,9 +31,13 @@ docs/
   practice-04-idef3.md        отчёт по практике №4
   practice-05-06-idef1x.md    отчёт по практикам №5–6
   otchet-praktiki-3-6.docx    сводный отчёт Word (A4 альбомный, рисунки + таблицы)
+  practice-01-02-idef0-as-is.md  отчёт по лабораторной №1 (IDEF0 «как есть»)
+  otchet-idef0-as-is.docx     отчёт Word по лабораторной №1
 diagrams/                     векторные диаграммы (SVG), генерируются кодом
 images/                       растровые версии (PNG, 2x) для вставки в документы
 site/index.html               одностраничный просмотр всех моделей и спецификаций
+site/idef0-as-is.html         страница лабораторной №1 (23 диаграммы IDEF0 + дерево узлов)
+dia/                          исходники Dia (SADT/IDEF0): 22 файла .dia (gzip-XML)
 sql/schema.sql                физическая модель (PostgreSQL) по логической модели IDEF1X
 tools/
   data.py                     ЕДИНЫЙ источник содержания (потоки, UOB, сущности, атрибуты)
@@ -29,6 +46,9 @@ tools/
   build_diagrams.py           сборка diagrams/*.svg и images/*.png
   build_docs.py               сборка docs/*.md и site/index.html
   build_report.py             сборка docs/otchet-praktiki-3-6.docx
+  data_idef0.py               источник содержания лабораторной №1 (IDEF0 «как есть»)
+  build_idef0.py              сборка диаграмм IDEF0, дерева узлов, md/html/docx лабораторной №1
+  build_dia.py                сборка dia/*.dia (gzip-XML Dia, объекты SADT - box / SADT - arrow)
   fonts/                      сабсет DejaVu Sans (кириллица) для растрового рендера
 ```
 
@@ -50,6 +70,8 @@ pip install -r requirements-dev.txt
 python tools/build_diagrams.py   # SVG + PNG
 python tools/build_docs.py       # markdown + сайт
 python tools/build_report.py     # DOCX
+python tools/build_idef0.py      # лабораторная №1: SVG/PNG IDEF0 + md + html + docx
+python tools/build_dia.py        # лабораторная №1: dia/*.dia
 ```
 
 ## Ключевые методические решения

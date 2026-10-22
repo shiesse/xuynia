@@ -1,0 +1,270 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1960" height="1240" viewBox="0 0 1960 1240" font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif", role="img">
+<rect x="0" y="0" width="1960" height="1240" fill="#ffffff"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="21" fill="#0b1f3a" text-anchor="start" font-weight="bold"><tspan x="32" y="34">Дерево узлов функциональной модели IDEF0 «как есть»</tspan></text>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#5b6b82" text-anchor="start"><tspan x="32" y="58">A0 → уровень 1 (A1–A4) → уровень 2 (A11–A44) → уровень 3 (A111–A444); 61 узел декомпозиции</tspan></text>
+<rect x="850" y="90" width="260" height="46" fill="#eef4fd" stroke="#12325e" stroke-width="2.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="12.5" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="980" y="117.438">A0 — Разработка программного обеспечения</tspan></text>
+<rect x="175" y="190" width="200" height="40" fill="#dce8fa" stroke="#12325e" stroke-width="1.9"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="275" y="206.755">A1 Анализ требований и</tspan><tspan x="275" y="221.055">проектирование</tspan></text>
+<path d="M 980,136 L 980,165 L 275,165 L 275,190" fill="none" stroke="#12325e" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="215" y="260" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="305" y="280.55">A11 Сбор требований</tspan></text>
+<path d="M 233,294 L 233,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="302" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="318.053">A111 Регистрация и анализ заявки</tspan></text>
+<path d="M 233,315 L 249,315" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="332" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="342.463">A112 Интервью с заказчиком и</tspan><tspan x="337" y="353.643">стейкхолдерами</tspan></text>
+<path d="M 233,345 L 249,345" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="362" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="378.053">A113 Формализация требований</tspan></text>
+<path d="M 233,375 L 249,375" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="392" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="402.463">A114 Нормализация и</tspan><tspan x="337" y="413.643">приоритизация с заказчиком</tspan></text>
+<path d="M 233,405 L 249,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="215" y="438" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="305" y="458.55">A12 Разработка ТЗ</tspan></text>
+<path d="M 233,472 L 233,583" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="480" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="496.053">A121 Черновик ТЗ по ГОСТ 34.602</tspan></text>
+<path d="M 233,493 L 249,493" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="510" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="526.053">A122 Внутренняя экспертиза ТЗ</tspan></text>
+<path d="M 233,523 L 249,523" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="540" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="550.463">A123 Согласование ТЗ с</tspan><tspan x="337" y="561.643">заказчиком</tspan></text>
+<path d="M 233,553 L 249,553" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="570" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="580.463">A124 Утверждение и фиксация</tspan><tspan x="337" y="591.643">базовой линии</tspan></text>
+<path d="M 233,583 L 249,583" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="215" y="616" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="305" y="630.05">A13 Проектирование</tspan><tspan x="305" y="643.05">архитектуры</tspan></text>
+<path d="M 233,650 L 233,761" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="658" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="668.463">A131 Выбор технологического</tspan><tspan x="337" y="679.643">стека</tspan></text>
+<path d="M 233,671 L 249,671" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="688" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="698.463">A132 Проектирование схемы</tspan><tspan x="337" y="709.643">компонентов</tspan></text>
+<path d="M 233,701 L 249,701" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="718" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="728.463">A133 Проектирование модели БД</tspan><tspan x="337" y="739.643">и API</tspan></text>
+<path d="M 233,731 L 249,731" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="748" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="764.053">A134 Архитектурное ревью</tspan></text>
+<path d="M 233,761 L 249,761" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="215" y="794" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="305" y="814.55">A14 Дизайн UI/UX</tspan></text>
+<path d="M 233,828 L 233,939" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="836" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="846.463">A141 Анализ брендбука и</tspan><tspan x="337" y="857.643">UX-гайдлайнов</tspan></text>
+<path d="M 233,849 L 249,849" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="866" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="876.463">A142 Прототипирование</tspan><tspan x="337" y="887.643">ключевых сценариев</tspan></text>
+<path d="M 233,879 L 249,879" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="896" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="912.053">A143 Отрисовка UI-макетов</tspan></text>
+<path d="M 233,909 L 249,909" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="249" y="926" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="337" y="936.463">A144 Согласование макетов с</tspan><tspan x="337" y="947.643">заказчиком</tspan></text>
+<path d="M 233,939 L 249,939" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 275,230 L 275,242 L 201,242 L 201,811" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 201,277 L 215,277" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 201,455 L 215,455" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 201,633 L 215,633" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 201,811 L 215,811" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="645" y="190" width="200" height="40" fill="#dce8fa" stroke="#12325e" stroke-width="1.9"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="745" y="213.905">A2 Разработка кода</tspan></text>
+<path d="M 980,136 L 980,165 L 745,165 L 745,190" fill="none" stroke="#12325e" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="685" y="260" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="775" y="280.55">A21 Разработка backend</tspan></text>
+<path d="M 703,294 L 703,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="302" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="312.463">A211 Подготовка репозитория и</tspan><tspan x="807" y="323.643">окружения</tspan></text>
+<path d="M 703,315 L 719,315" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="332" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="342.463">A212 Реализация бизнес-логики и</tspan><tspan x="807" y="353.643">API</tspan></text>
+<path d="M 703,345 L 719,345" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="362" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="372.463">A213 Модульное тестирование</tspan><tspan x="807" y="383.643">серверного кода</tspan></text>
+<path d="M 703,375 L 719,375" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="392" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="402.463">A214 Code review и слияние в</tspan><tspan x="807" y="413.643">develop</tspan></text>
+<path d="M 703,405 L 719,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="685" y="438" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="775" y="458.55">A22 Разработка frontend</tspan></text>
+<path d="M 703,472 L 703,583" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="480" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="490.463">A221 Развёртывание каркаса</tspan><tspan x="807" y="501.643">клиента</tspan></text>
+<path d="M 703,493 L 719,493" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="510" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="520.463">A222 Вёрстка компонентов по</tspan><tspan x="807" y="531.643">макетам</tspan></text>
+<path d="M 703,523 L 719,523" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="540" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="550.463">A223 Интеграция с API и</tspan><tspan x="807" y="561.643">состоянием</tspan></text>
+<path d="M 703,553 L 719,553" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="570" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="580.463">A224 Компонентные тесты и</tspan><tspan x="807" y="591.643">слияние</tspan></text>
+<path d="M 703,583 L 719,583" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="685" y="616" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="775" y="636.55">A23 Мобильная разработка</tspan></text>
+<path d="M 703,650 L 703,761" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="658" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="668.463">A231 Подготовка проектов</tspan><tspan x="807" y="679.643">iOS/Android</tspan></text>
+<path d="M 703,671 L 719,671" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="688" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="698.463">A232 Реализация экранов и</tspan><tspan x="807" y="709.643">навигации</tspan></text>
+<path d="M 703,701 L 719,701" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="718" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="728.463">A233 Интеграция с API и</tspan><tspan x="807" y="739.643">офлайн-режимом</tspan></text>
+<path d="M 703,731 L 719,731" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="748" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="758.463">A234 Тесты на устройствах и</tspan><tspan x="807" y="769.643">эмуляторах</tspan></text>
+<path d="M 703,761 L 719,761" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="685" y="794" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="775" y="814.55">A24 Code review и сборка</tspan></text>
+<path d="M 703,828 L 703,939" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="836" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="846.463">A241 Ревью интеграционных</tspan><tspan x="807" y="857.643">изменений</tspan></text>
+<path d="M 703,849 L 719,849" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="866" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="876.463">A242 Исправление замечаний</tspan><tspan x="807" y="887.643">ревью</tspan></text>
+<path d="M 703,879 L 719,879" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="896" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="912.053">A243 Сборка артефактов в CI/CD</tspan></text>
+<path d="M 703,909 L 719,909" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="719" y="926" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="807" y="936.463">A244 Формирование</tspan><tspan x="807" y="947.643">релиз-кандидата</tspan></text>
+<path d="M 703,939 L 719,939" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 745,230 L 745,242 L 671,242 L 671,811" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 671,277 L 685,277" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 671,455 L 685,455" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 671,633 L 685,633" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 671,811 L 685,811" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1115" y="190" width="200" height="40" fill="#dce8fa" stroke="#12325e" stroke-width="1.9"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1215" y="206.755">A3 Тестирование и контроль</tspan><tspan x="1215" y="221.055">качества</tspan></text>
+<path d="M 980,136 L 980,165 L 1215,165 L 1215,190" fill="none" stroke="#12325e" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1155" y="260" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1245" y="280.55">A31 Ручное тестирование</tspan></text>
+<path d="M 1173,294 L 1173,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="302" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="312.463">A311 Разработка и актуализация</tspan><tspan x="1277" y="323.643">тест-кейсов</tspan></text>
+<path d="M 1173,315 L 1189,315" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="332" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="342.463">A312 Выполнение</tspan><tspan x="1277" y="353.643">функциональных проверок</tspan></text>
+<path d="M 1173,345 L 1189,345" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="362" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="372.463">A313 Регистрация и триаж</tspan><tspan x="1277" y="383.643">баг-репортов</tspan></text>
+<path d="M 1173,375 L 1189,375" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="392" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="402.463">A314 Ретест исправленных</tspan><tspan x="1277" y="413.643">дефектов</tspan></text>
+<path d="M 1173,405 L 1189,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1155" y="438" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1245" y="458.55">A32 Автотестирование</tspan></text>
+<path d="M 1173,472 L 1173,583" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="480" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="490.463">A321 Разработка и обновление</tspan><tspan x="1277" y="501.643">автотестов</tspan></text>
+<path d="M 1173,493 L 1189,493" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="510" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="520.463">A322 Прогон регрессионного</tspan><tspan x="1277" y="531.643">набора в CI</tspan></text>
+<path d="M 1173,523 L 1189,523" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="540" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="550.463">A323 Анализ результатов и</tspan><tspan x="1277" y="561.643">покрытия</tspan></text>
+<path d="M 1173,553 L 1189,553" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="570" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="580.463">A324 Регистрация дефектов по</tspan><tspan x="1277" y="591.643">итогам прогона</tspan></text>
+<path d="M 1173,583 L 1189,583" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1155" y="616" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1245" y="630.05">A33 Регрессионное</tspan><tspan x="1245" y="643.05">тестирование</tspan></text>
+<path d="M 1173,650 L 1173,731" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="658" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="668.463">A331 Определение области</tspan><tspan x="1277" y="679.643">регрессии</tspan></text>
+<path d="M 1173,671 L 1189,671" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="688" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="698.463">A332 Прогон регрессионного</tspan><tspan x="1277" y="709.643">набора</tspan></text>
+<path d="M 1173,701 L 1189,701" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="718" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="728.463">A333 Верификация отсутствия</tspan><tspan x="1277" y="739.643">новых дефектов</tspan></text>
+<path d="M 1173,731 L 1189,731" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1155" y="764" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1245" y="784.55">A34 Отчёт о качестве</tspan></text>
+<path d="M 1173,798 L 1173,909" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="806" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="816.463">A341 Сбор и сверка метрик</tspan><tspan x="1277" y="827.643">тестирования</tspan></text>
+<path d="M 1173,819 L 1189,819" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="836" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="846.463">A342 Анализ остаточных</tspan><tspan x="1277" y="857.643">дефектов и рисков</tspan></text>
+<path d="M 1173,849 L 1189,849" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="866" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="876.463">A343 Формирование отчёта о</tspan><tspan x="1277" y="887.643">качестве</tspan></text>
+<path d="M 1173,879 L 1189,879" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1189" y="896" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1277" y="906.463">A344 Решение о передаче</tspan><tspan x="1277" y="917.643">продукта на внедрение</tspan></text>
+<path d="M 1173,909 L 1189,909" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1215,230 L 1215,242 L 1141,242 L 1141,781" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1141,277 L 1155,277" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1141,455 L 1155,455" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1141,633 L 1155,633" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1141,781 L 1155,781" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1585" y="190" width="200" height="40" fill="#dce8fa" stroke="#12325e" stroke-width="1.9"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="11" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1685" y="206.755">A4 Внедрение и сдача</tspan><tspan x="1685" y="221.055">заказчику</tspan></text>
+<path d="M 980,136 L 980,165 L 1685,165 L 1685,190" fill="none" stroke="#12325e" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1625" y="260" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1715" y="274.05">A41 Развертывание на</tspan><tspan x="1715" y="287.05">серверах</tspan></text>
+<path d="M 1643,294 L 1643,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="302" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="312.463">A411 Подготовка инфраструктуры</tspan><tspan x="1747" y="323.643">(IaC)</tspan></text>
+<path d="M 1643,315 L 1659,315" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="332" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="342.463">A412 Развёртывание сборки на</tspan><tspan x="1747" y="353.643">стендах</tspan></text>
+<path d="M 1643,345 L 1659,345" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="362" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="372.463">A413 Настройка мониторинга и</tspan><tspan x="1747" y="383.643">резервного копирования</tspan></text>
+<path d="M 1643,375 L 1659,375" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="392" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="402.463">A414 Приёмочные</tspan><tspan x="1747" y="413.643">smoke-проверки среды</tspan></text>
+<path d="M 1643,405 L 1659,405" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1625" y="438" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1715" y="452.05">A42 Обучение</tspan><tspan x="1715" y="465.05">пользователей</tspan></text>
+<path d="M 1643,472 L 1643,553" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="480" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="490.463">A421 Подготовка</tspan><tspan x="1747" y="501.643">пользовательских инструкций</tspan></text>
+<path d="M 1643,493 L 1659,493" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="510" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="520.463">A422 Проведение обучения</tspan><tspan x="1747" y="531.643">(ВКС/очно)</tspan></text>
+<path d="M 1643,523 L 1659,523" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="540" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="550.463">A423 Сбор и регистрация</tspan><tspan x="1747" y="561.643">обратной связи</tspan></text>
+<path d="M 1643,553 L 1659,553" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1625" y="586" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1715" y="606.55">A43 Демонстрация и приемка</tspan></text>
+<path d="M 1643,620 L 1643,701" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="628" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="638.463">A431 Подготовка сценария</tspan><tspan x="1747" y="649.643">демонстрации</tspan></text>
+<path d="M 1643,641 L 1659,641" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="658" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="668.463">A432 Демонстрация системы</tspan><tspan x="1747" y="679.643">заказчику</tspan></text>
+<path d="M 1643,671 L 1659,671" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="688" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="698.463">A433 Согласование замечаний и</tspan><tspan x="1747" y="709.643">фиксация протокола</tspan></text>
+<path d="M 1643,701 L 1659,701" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1625" y="734" width="180" height="34" fill="#eef4fd" stroke="#12325e" stroke-width="1.6"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="10" fill="#0b1f3a" text-anchor="middle" font-weight="bold"><tspan x="1715" y="754.55">A44 Подписание акта</tspan></text>
+<path d="M 1643,768 L 1643,879" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="776" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="786.463">A441 Подготовка закрывающих</tspan><tspan x="1747" y="797.643">документов</tspan></text>
+<path d="M 1643,789 L 1659,789" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="806" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="816.463">A442 Подписание акта</tspan><tspan x="1747" y="827.643">сдачи-приёмки (ЭДО)</tspan></text>
+<path d="M 1643,819 L 1659,819" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="836" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="846.463">A443 Передача документов в</tspan><tspan x="1747" y="857.643">бухгалтерию и архив</tspan></text>
+<path d="M 1643,849 L 1659,849" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1659" y="866" width="176" height="26" fill="#f7fafd" stroke="#7d94b8" stroke-width="1.2"/>
+<text font-family="'DejaVu Sans','Liberation Sans',Arial,Helvetica,sans-serif" font-size="8.6" fill="#14213d" text-anchor="middle"><tspan x="1747" y="876.463">A444 Закрытие проекта,</tspan><tspan x="1747" y="887.643">извлечённые уроки</tspan></text>
+<path d="M 1643,879 L 1659,879" fill="none" stroke="#7d94b8" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1685,230 L 1685,242 L 1611,242 L 1611,751" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1611,277 L 1625,277" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1611,455 L 1625,455" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1611,603 L 1625,603" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1611,751 L 1625,751" fill="none" stroke="#12325e" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
